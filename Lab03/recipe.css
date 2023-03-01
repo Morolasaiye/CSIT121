@@ -1,0 +1,33 @@
+h1{
+  color: white;
+  font-size: 3em;
+  font-family: monospace;
+    margin: 0;
+}
+
+h2{
+  font-family: monospace;
+  color: white;
+  margin: 5% 0;
+}
+
+img{
+height:500px;
+ width:auto;
+}
+
+body{
+  font-family: monospace;
+  color: darkred;
+}
+
+p{
+    text-indent: 2em;
+  text-transform: uppercase;
+  color: floralwhite;
+}
+
+li{
+  background-color: #111111;
+  color: white;
+  }
