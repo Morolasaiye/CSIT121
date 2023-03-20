@@ -1,0 +1,72 @@
+h1{
+  color: white;
+  font-size: 3em;
+  text-align: center;
+  font-family: monospace;
+    margin: 0;
+}
+
+h2{
+  font-family: monospace;
+  color: white;
+  text-align: center;
+  margin: 5% 0;
+}
+
+img{
+height:500px;
+ width:auto;
+}
+
+#wrapper { width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #112131;
+  float: right; 
+  font-size:15px;
+}
+
+body{
+  font-family: monospace;
+  color: darkred;
+  background-color: #112131;
+}
+
+.paragraph{
+
+  text-transform: uppercase;
+  color: floralwhite;
+  float: left;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.steps{
+  float: left;
+  font-size: 15.5px;
+}
+
+li{
+  background-color: #111111;
+  color: white;
+  }
+
+
+a:link {
+  color: #000000;
+}
+
+a:visited {
+  color: #ffffff;
+}
+
+
+a:hover {
+  color: #FF00FF;
+}
+
+
+a:active {
+  color: #0000FF;
+}
+
