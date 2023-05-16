@@ -1,0 +1,114 @@
+h2,h4,p{
+  text-align:left;
+}
+  
+li a {
+  text-align: left;
+  text-decoration:none;
+}
+body {
+  background-color: #000;
+  color: #fff;
+  margin: 0;
+  padding: 0;
+  font-family: monospace;
+}
+
+nav {
+  background-color: #000;
+  color: #fff;
+  padding: 20px;
+  text-align: right;
+}
+.about{
+  text-align: center;
+}
+
+img{
+  width: 500px;
+
+}
+
+.image {
+  width: 300px;
+  height: 200px;
+  background-image: url('https://i.pinimg.com/736x/84/0e/e6/840ee6614053c4fae9ce68736e89b39b.jpg');
+  background-size: cover;
+}
+.content {
+  text-align: center;
+  margin-top: 200px;
+}
+table, th, td {
+  border: 1px solid black;
+   border-collapse: collapse;
+   text-align: left;
+   margin: auto;
+}
+caption{
+  font-family: verdana;
+  font-size:15px;
+  font-weight:bold;
+}
+th, td {
+  font-family: verdana;
+  padding: 10px;
+  text-align:center;
+}
+tr:first-child{
+  background-color:white;
+  color:black;
+}
+
+header{
+  text-align: center;
+}
+
+h1{
+  font-size: 48px;
+  }
+
+ul{
+  text-align: left;
+}
+
+.subscribe-bar {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+}
+
+.subscribe-bar button {
+  padding: 10px 20px;
+  background-color: #000;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+
+a:link {
+  color: #ffffff;
+}
+
+a:visited {
+  color: #ffffff;
+}
+
+
+a:hover {
+  color: #FF00FF;
+}
+
+
+a:active {
+  color: #0000FF;
+}
+
+/* Media query for smaller screens */
+@media only screen and (max-width: 600px) {
+  /* CSS rules specific to mobile phones go here */
+  body {
+    font-size: 14px;
+  }
+}
+  /* Styles for mobile screens */
